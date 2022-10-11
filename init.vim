@@ -17,4 +17,8 @@ Plug 'w0rp/ale'
 Plug 'tpope/vim-sleuth'
 Plug 'sheerun/vim-polyglot'
 
+" Use release branch (recommend)
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+
 call plug#end()
